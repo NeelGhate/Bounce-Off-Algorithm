@@ -1,2 +1,2 @@
-# Bounce-Off-Algorithm
-2 squares bouce off with each other on the screen.
+# p5.play-boilerplate
+Boiler plate for p5.play
